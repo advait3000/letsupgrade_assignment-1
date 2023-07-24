@@ -14,4 +14,4 @@ function findMax(numbers) {
   
   const numbersArray = [10, 5, 20, 8, 15];
 const maxNumber = findMax(numbersArray);
-console.log(maxNumber);
+document.write(maxNumber);
